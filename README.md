@@ -19,4 +19,6 @@
 
 ![alt text](https://github.com/AliBacik/Cut-The-Rope--Hyper-Casual-Game-/blob/main/Pictures/6.PNG)
 
+![alt text](https://github.com/AliBacik/Cut-The-Rope--Hyper-Casual-Game-/blob/main/Pictures/7.PNG)
+
 
