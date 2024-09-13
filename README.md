@@ -7,14 +7,12 @@
       
 **Pictures from the game**
 
-![](https://github.com/AliBacik/DarkDescent/blob/main/GameShots/cut.gif)
+![alt text](https://github.com/AliBacik/Cut-The-Rope--Hyper-Casual-Game-/blob/main/Pictures/1.PNG)
 
-![alt text](https://github.com/AliBacik/DarkDescent/blob/main/GameShots/1.png)
+![alt text](https://github.com/AliBacik/Cut-The-Rope--Hyper-Casual-Game-/blob/main/Pictures/2.PNG)
 
-![alt text](https://github.com/AliBacik/DarkDescent/blob/main/GameShots/2.png)
+![alt text](https://github.com/AliBacik/Cut-The-Rope--Hyper-Casual-Game-/blob/main/Pictures/3.PNG)
 
-![alt text](https://github.com/AliBacik/DarkDescent/blob/main/GameShots/3.png)
+![alt text](https://github.com/AliBacik/Cut-The-Rope--Hyper-Casual-Game-/blob/main/Pictures/4.PNG)
 
-![alt text](https://github.com/AliBacik/DarkDescent/blob/main/GameShots/4.png)
-
-![alt text](https://github.com/AliBacik/DarkDescent/blob/main/GameShots/5.png)
+![alt text](https://github.com/AliBacik/Cut-The-Rope--Hyper-Casual-Game-/blob/main/Pictures/5.PNG)
