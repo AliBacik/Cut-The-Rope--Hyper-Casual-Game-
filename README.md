@@ -4,6 +4,10 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 2D Mobile Game made with Unity.
+
+**Gameplay from the game**
+
+https://github.com/user-attachments/assets/221fdddf-3c86-44c9-bdba-d746b2ba10fe
       
 **Pictures from the game**
 
